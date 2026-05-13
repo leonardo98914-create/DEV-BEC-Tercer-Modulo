@@ -1,0 +1,10 @@
+[
+    {
+        "nombre": "Marte",
+        "tipo": "Rocoso"
+    },
+    {
+        "nombre": "Júpiter",
+        "tipo": "Gaseoso"
+    }
+]
